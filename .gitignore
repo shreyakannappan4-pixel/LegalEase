@@ -1,3 +1,5 @@
 LegalEase/.env
 LegalEase/**/__pycache__/
 LegalEase/venv/
+*.pyc
+.DS_Store
